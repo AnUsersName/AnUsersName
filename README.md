@@ -1,5 +1,6 @@
 # hello 🧶👋
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight)
 
 <h3 align="left">Socials</h3>
 <p align="left">
@@ -13,4 +14,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
 
+
 ![weic2320b](https://github.com/user-attachments/assets/7d417f23-8800-4f40-9740-a385c4002466)
+
