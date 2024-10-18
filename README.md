@@ -17,4 +17,3 @@
 <p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
 <p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
 
-![Webb_captures_detailed_beauty_of_Ring_Nebula_(NIRCam_image)_(weic2320b)](https://github.com/user-attachments/assets/b0cbdf09-8fc3-4616-a7fc-4a1ec4bc676b)
