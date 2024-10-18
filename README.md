@@ -16,4 +16,4 @@
 <p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
 
 
-![original](https://github.com/user-attachments/assets/f5ada00e-24b7-4723-b988-0492b98bd873)
+![image](https://github.com/user-attachments/assets/6cc0249f-ebb6-4f0c-8e50-8b1150fcce30)
