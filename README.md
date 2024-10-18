@@ -15,6 +15,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=anusersname&show_icons=true&theme=radical)
 <p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
 
-![Webb_captures_detailed_beauty_of_Ring_Nebula_(NIRCam_image)_(weic2320b)](https://github.com/user-attachments/assets/b0cbdf09-8fc3-4616-a7fc-4a1ec4bc676b)
-![Webb_captures_detailed_beauty_of_Ring_Nebula_(NIRCam_image)_(weic2320b)](https://github.com/user-attachments/assets/b0cbdf09-8fc3-4616-a7fc-4a1ec4bc676b)
 
+![original](https://github.com/user-attachments/assets/f5ada00e-24b7-4723-b988-0492b98bd873)
