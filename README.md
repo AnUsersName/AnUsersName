@@ -1,4 +1,4 @@
-# arrrr 🧶👋
+# arrrr 
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight)
 
@@ -12,8 +12,17 @@
 
 # stats 🧶
 
-![stats](https://github-readme-stats.vercel.app/api?username=anusersname&show_icons=true&theme=radical)
-<p><img align="top-right" src="https://github-readme-streak-stats.herokuapp.com/?user=anusersname&" alt="anusersname" /></p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![image](https://github.com/user-attachments/assets/6cc0249f-ebb6-4f0c-8e50-8b1150fcce30)
